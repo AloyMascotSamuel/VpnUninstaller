@@ -1,2 +1,3 @@
 # VpnUninstaller
 Questioner before uninstalling the app 
+The interface collects required infos from the user berfore he or she goes ahead to uninstall the app...
